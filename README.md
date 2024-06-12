@@ -1,16 +1,43 @@
-## Hi there 👋
+# Welcome to Nikhil Reddy Nookala's GitHub Profile! 🎉
 
-<!--
-**NikhilReddyNookala/NikhilReddyNookala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello! I'm Nikhil Reddy Nookala, a passionate Computer Science MS student. My journey in the tech world is driven by a thirst for knowledge and a love for creating innovative solutions. Here, you'll find a showcase of my projects, contributions, and learning experiences as I build and refine my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What You'll Find Here
+
+### Projects 🚀
+- **Car Price Prediction**: ⁠It’s a bot that predicts the current Prices of reselling cars. So that the sellers and buyers have an Idea of the purchase that will be made, we proposed a model to estimate the cost of the used cars using the K nearest neighbour algorithm, which is simple and suitable for small data sets.
+- **Diabetes prediction using machine learning**:  ⁠The aim of this analysis is to develop a system that might predict the diabetic risk level of a patient with better accuracy. Model development is based on categorization methods such as Decision Trees, ANN, Naive Bayes, and SVM algorithms. For Decision trees, the models give precisions of 85%, 77% for Naive Bayes, and 77.3% for Support Vector machines. Outcomes show significant accuracy of the methods.
+- **Online Price Comparison Website Python**: ⁠To obtain the best deals from Price comparison websites, web crawlers and web scraping techniques are used to fetch detailed information. This way, the paper aims to provide a solution for online customers to buy products at a good price and save valuable time, effort, and money.
+- **Face Mask Detection**: his project on face mask detection detects if a person is wearing a mask primarily in public places or not. In a pandemic time like this, this project can become one of many solutions to maintaining safety among people.
+- **Game of Hangman**: ⁠It is a game where a user is asked to guess the word by its letters. If he/she fails to guess, the game starts to make the man hang one by one. It is a fun game to play with friends. Used Object Oriented concepts to build the game in Java.
+- **Movie Recommender System**: ⁠A system that suggests movies based on user requests and general traffic uses concepts of collaborative filtering and clustering in making decisions.
+
+  
+### Areas of Interest 💡
+- **Machine Learning & AI**: Exploring algorithms, models, and their applications.
+- **Web Development**: Building responsive, user-friendly websites and web applications.
+- **Data Science**: Analyzing and visualizing data to derive meaningful insights.
+- **Software Development**: Developing robust and scalable software solutions.
+
+## My Skills & Tools 🛠️
+
+- **Programming Languages**: Python, Java
+- **Web Technologies**: HTML, CSS
+- **Databases**: SQL
+- **Tools & Platforms**: Git, GitHub
+
+## Get in Touch 📫
+
+I love connecting with like-minded individuals and professionals. Whether it's for a potential collaboration, sharing knowledge, or just a tech chat, feel free to reach out!
+
+- **Email**: nikhilreddynookala@gmail.com
+- **LinkedIn**: [Nikhil Reddy Nookala]([https://www.linkedin.com/in/nikhilreddynookala)
+
+## Let's Connect!
+If you find my work interesting, please follow me on GitHub. Your feedback and suggestions are invaluable to me as I strive to grow and learn.
+
+Thank you for visiting my GitHub profile! Happy coding! 😊
+
+---
