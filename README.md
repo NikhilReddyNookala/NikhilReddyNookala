@@ -33,7 +33,7 @@ Hello! I'm Nikhil Reddy Nookala, a passionate Computer Science MS student. My jo
 I love connecting with like-minded individuals and professionals. Whether it's for a potential collaboration, sharing knowledge, or just a tech chat, feel free to reach out!
 
 - **Email**: nikhilreddynookala@gmail.com
-- **LinkedIn**: [Nikhil Reddy Nookala]([https://www.linkedin.com/in/nikhilreddynookala)
+- **LinkedIn**: [https://www.linkedin.com/in/nikhil-reddy-nookala?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]
 
 ## Let's Connect!
 If you find my work interesting, please follow me on GitHub. Your feedback and suggestions are invaluable to me as I strive to grow and learn.
